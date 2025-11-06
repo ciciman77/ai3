@@ -74,6 +74,11 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
+     labels[0]: {
+       "texts": ["호날두는", "레알마드리드의", "전설이다."],
+       "images": ["https://cdn.dynews.co.kr/news/photo/201804/403722_64988_08.jpg"],
+     "videos": ["https://www.youtube.com/watch?v=aGxcS6cPA0o"]
+     },
 }
 
 # ======================
